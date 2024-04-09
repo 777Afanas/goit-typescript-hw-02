@@ -1,5 +1,16 @@
-let anything = -20;
+
+
+let anything: any = -20;
 anything = 'Text';
 anything = {};
 
-export {};
+
+
+export { };
+
+
+// Який тип ви надаєте змінній anything в TypeScript, щоб зберегти її гнучкість?
+
+// let anything = -20;
+// anything = 'Text';
+// anything = {};
